@@ -1,0 +1,10 @@
+{
+"newVersion":"1.1",
+"newVcode":"1",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hey!\nI've fixed some problems in the previous version, hope you like it, Thanks :)\n\n~ FahrezONE",
+"visibleButton":"true",
+"textButton":"Update",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
+"forceUpdate":"false"
+}
