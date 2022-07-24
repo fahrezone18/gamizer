@@ -1,10 +1,10 @@
 {
-"newVersion":"1.13",
-"newVcode":"113",
-"dialogTitle":"INFO",
-"dialogSubtitle":"Hey Pro Gamer!\nHow are You? if you have suggestion send to me, thanks:D\n\n~ FahrezONE",
+"newVersion":"1.15",
+"newVcode":"115",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hey Pro Gamer!\nI have added new features \"Bookmark\", You can try it now\nIf You found bug, please report to \"fahrezone.report@gmail.com\", thanks:D\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Rate Me :D",
+"textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
 "forceUpdate":"false"
 }
