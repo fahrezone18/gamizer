@@ -1,8 +1,8 @@
 {
-"newVersion":"1.15",
-"newVcode":"115",
+"newVersion":"1.17",
+"newVcode":"117",
 "dialogTitle":"UPDATE",
-"dialogSubtitle":"Hey Pro Gamer!\nI have added new features \"Bookmark\", You can try it now\nIf You found bug, please report to \"fahrezone.report@gmail.com\", thanks:D\n\n~ FahrezONE",
+"dialogSubtitle":"Hey Pro Gamer!\nI have added new features \"Floating Boost (test)\", You can try it now\nIf You found bug, please report to \"fahrezone.report@gmail.com\", thanks:D\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
