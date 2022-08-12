@@ -1,10 +1,10 @@
 {
 "newVersion":"1.19",
-"newVcode":"119",
-"dialogTitle":"Info",
-"dialogSubtitle":"Hey Pro Gamer!\nI have Add New feature \"Energy Power\" in \"Floating Boost (test)\" to get More Performance!, You can try it now\nIf You found bug, please report to \"fahrezone.report@gmail.com\", thanks:D\n\n~ FahrezONE",
+"newVcode":"120",
+"dialogTitle":"HELP?",
+"dialogSubtitle":"Hey Pro Gamer!\nI'm a little confused, are the features in this application good enough? can you give me suggestions?🤔\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Update",
+"textButton":"Suggest",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
 "forceUpdate":"false"
 }
