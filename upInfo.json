@@ -1,10 +1,10 @@
 {
-"newVersion":"1.19",
-"newVcode":"120",
-"dialogTitle":"INFO!!",
-"dialogSubtitle":"Hey Pro Gamer!\nThere is a problem with advertising, please save your energy for now, Sorry for the inconvenience😅\n\n~ FahrezONE",
+"newVersion":"1.21",
+"newVcode":"121",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hey Pro Gamer!\nUpdate about problem with advertising, Due to this problem, I compensated in the form of Recharge 1 Energy Level :D\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Suggest",
+"textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
 "forceUpdate":"false"
 }
