@@ -2,9 +2,9 @@
 "newVersion":"1.22",
 "newVcode":"122",
 "dialogTitle":"INFO",
-"dialogSubtitle":"Hey Pro Gamer!\nGame Vortex is being Updated...😁\n\n~ FahrezONE",
+"dialogSubtitle":"Hey Pro Gamer!\nGame Vortex already Updated, but not from \"PlayStore\", You can update it now if You want😁\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Okay",
-"upLink":"https://youtu.be/TguNLvEx9xs",
+"textButton":"Update?",
+"upLink":"https://fahrezone18.github.io/",
 "forceUpdate":"false"
 }
