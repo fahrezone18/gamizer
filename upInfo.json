@@ -1,10 +1,10 @@
 {
-"newVersion":"1.28",
-"newVcode":"128",
+"newVersion":"1.29",
+"newVcode":"129",
 "dialogTitle":"UPDATE",
-"dialogSubtitle":"Hey Pro Gamer!\nGame Vortex Have New Features \"Double Boost\", Update now on PlayStore!!\n\n~ FahrezONE",
+"dialogSubtitle":"Hey Pro Gamer!\nJust Update 😁\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
-"forceUpdate":"true"
+"forceUpdate":"false"
 }
