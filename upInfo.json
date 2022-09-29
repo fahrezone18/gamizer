@@ -1,10 +1,10 @@
 {
 "newVersion":"1.30",
 "newVcode":"130",
-"dialogTitle":"UPDATE?",
-"dialogSubtitle":"Hey Pro Gamer!\n Update is available, if you want to update please use all your \"Energy Level\", because \"Energy Level\" will be reset in the latest version\n\n~ FahrezONE",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hey Pro Gamer!\n Update is available, I hope you have used all the \"Energy Level\", because \"Energy Level\" will be reset in the latest version\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Update?",
+"textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
-"forceUpdate":"false"
+"forceUpdate":"true"
 }
