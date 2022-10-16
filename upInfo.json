@@ -1,10 +1,10 @@
 {
-"newVersion":"1.31",
-"newVcode":"131",
-"dialogTitle":"UPDATE",
-"dialogSubtitle":"Hey Pro Gamer!\nUpdate Available, please use App from \"Play Store\", IF YOU CAN'T UPDATE OR GET A BUG UNINSTALL THE OLD VERSION FIRST!\n\n~ FahrezONE",
+"newVersion":"1.32",
+"newVcode":"132",
+"dialogTitle":"SUBSCRIBE",
+"dialogSubtitle":"Hey Pro Gamer!\nI need your help!, Can you subscribe to the developer channel? It will be very helpful if there is info about the latest Update😁\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Update",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
-"forceUpdate":"true"
+"textButton":"Subscribe",
+"upLink":"https://youtube.com/shorts/EzWs_iVzys0?feature=share",
+"forceUpdate":"false"
 }
