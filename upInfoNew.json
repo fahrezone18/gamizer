@@ -1,9 +1,9 @@
 {
 "newVersion":"1.40",
-"newVcode":"142",
-"dialogTitle":"TEST",
+"newVcode":"141",
+"dialogTitle":"INFO",
 "dialogSecTitle":"Dev",
-"dialogSubtitle":"You can skip\n\n~ FahrezONE",
+"dialogSubtitle":"The "Floating Boost" feature is experiencing technical problems, please don't use it first, thanks\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButtonFalse":"Ok",
 "textButtonTrue":"Update",
