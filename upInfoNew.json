@@ -1,12 +1,12 @@
 {
-"newVersion":"1.40",
-"newVcode":"141",
-"dialogTitle":"INFO",
+"newVersion":"1.45",
+"newVcode":"145",
+"dialogTitle":"UPDATE",
 "dialogSecTitle":"Dev",
-"dialogSubtitle":"The \"Floating Boost\" feature is having technical problems\nplease don't use it yet, thanks\n\n~ FahrezONE",
+"dialogSubtitle":"Update Available, Please Update from Play Store!\n YOUR ENERGY MAY BE RESETTED\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButtonFalse":"Ok",
-"textButtonTrue":"How To Fix",
-"upLink":"https://youtube.com/shorts/8KtcVGy5His?feature=share",
+"textButtonTrue":"Update",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
 "forceUpdate":""
 }
