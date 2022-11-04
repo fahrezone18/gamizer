@@ -1,10 +1,10 @@
 {
 "newVersion":"1.34",
-"newVcode":"134",
-"dialogTitle":"SUBSCRIBE",
-"dialogSubtitle":"Hey Pro Gamer!\nI need your help!, Can you subscribe to the developer channel? It will be very helpful if there is info about the latest Update😁\n\n~ FahrezONE",
+"newVcode":"135",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Update Available, Please Update from Play Store!\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Subscribe",
+"textButton":"Update",
 "upLink":"https://youtube.com/shorts/P7yiq5dW6A4?feature=share",
-"forceUpdate":"false"
+"forceUpdate":"true"
 }
