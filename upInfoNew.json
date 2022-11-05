@@ -3,10 +3,10 @@
 "newVcode":"145",
 "dialogTitle":"UPDATE",
 "dialogSecTitle":"Dev",
-"dialogSubtitle":"Update Available, Please Update from Play Store!\nYOUR ENERGY MAY BE RESETTED\n\n~ FahrezONE",
+"dialogSubtitle":"Update Available, Please Update from Play Store!\nYOUR ENERGY MAY BE RESETTED\n\nIf you Install it not from Play Store, please Uninstall it before Update!\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButtonFalse":"Ok",
 "textButtonTrue":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
-"forceUpdate":""
+"forceUpdate":"true"
 }
